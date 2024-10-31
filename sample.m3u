@@ -5,3 +5,11 @@ http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid
 http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="内蒙古综合" tvg-id="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方频道", 内蒙古综合
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-id="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="地方频道", 内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-id="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" group-title="地方频道", 内蒙古文体娱乐
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙古农牧" tvg-id="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="地方频道", 内蒙古农牧
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
